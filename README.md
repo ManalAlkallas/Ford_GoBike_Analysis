@@ -9,39 +9,14 @@ Programming language: Python. Module: numpy, pandas, matplotlib, seaborn, calend
 Data structure
 
 ## Data Structure
-There are 7.009.728 observations in total and 29 columns.
+There are 7.009.728 observations in total and 29 columns. 
 
-## Variable descriptions
-
- - **Year**:     2004 - 2008
- - **Month**	           1-12
- - **DayofMonth**	       1-31
- - **DayOfWeek**     	   1 (Monday) - 7 (Sunday)
- - **DepTime**	          actual departure time (local, hhmm)
- - **CRSDepTime** 	       scheduled departure time (local, hhmm) 
- - **ArrTime** 	       actual arrival time (local, hhmm)
- - **CRSArrTime**	       scheduled arrival time (local, hhmm)  
- - **UniqueCarrier**	   unique carrier code                         
- - **FlightNum**	       flight number                        
- - **TailNum**	           plane tail number                    
- - **ActualElapsedTime**  in minutes
- - **CRSElapsedTime**	   in minutes
- - **AirTime**	           in minutes
- - **ArrDelay**	       arrival delay, in minutes
- - **DepDelay**	       departure delay, in minutes
- - **Origin**           origin IATA airport code
- - **Dest**	           destination IATA airport code
- - **Distance**	       in miles
- - **TaxiIn**	           taxi in time, in minutes
- - **TaxiOut**	           taxi out time in minutes
- - **Cancelled**	       was the flight cancelled?
- - **CancellationCode**   reason for cancellation (A = carrier, B = weather, C = NAS, D = security)
- - **Diverted**	       1 = yes, 0 = no
- - **CarrierDelay**	   in minutes
- - **WeatherDelay**	   in minutes
- - **NASDelay**	       in minutes
- - **SecurityDelay**	   in minutes
- - **LateAircraftDelay**  in minutes
+## Variables
+'Year', 'Month', 'DayofMonth', 'DayOfWeek', 'DepTime', 'CRSDepTime','ArrTime', 'CRSArrTime', 'UniqueCarrier', 'FlightNum', 'TailNum',
+       'ActualElapsedTime', 'CRSElapsedTime', 'AirTime', 'ArrDelay',
+       'DepDelay', 'Origin', 'Dest', 'Distance', 'TaxiIn', 'TaxiOut',
+       'Cancelled', 'CancellationCode', 'Diverted', 'CarrierDelay',
+       'WeatherDelay', 'NASDelay', 'SecurityDelay', 'LateAircraftDelay'
 
 Reference http://stat-computing.org/dataexpo/2009/the-data.html
 
