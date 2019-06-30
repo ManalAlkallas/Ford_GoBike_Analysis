@@ -45,6 +45,10 @@ There are 7.009.728 observations in total and 29 columns.
 
 Reference http://stat-computing.org/dataexpo/2009/the-data.html
 
-## Data Wrangling
+## Research questions
 
-
+In this investigation, I wanted to analyse:
+- Cancelled Flights, What is the main reason behind the Cancelling flights, and what Cancelled Flights ratio.
+- Diverted Flights, What is the Diverted Flights ratio
+- Delayed Flights, What is the main reason behind delaying flights, and what delayed Flights ratio.
+- The Distance and Distance vs. AirTime¶
